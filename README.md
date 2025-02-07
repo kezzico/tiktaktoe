@@ -2,7 +2,8 @@
 
 A Tik Tak Toe game designed so that the player can never win.
 
-![TikTakToe Game](https://sfo2.digitaloceanspaces.com/kezzico-bucket/tiktaktoe.jpg)
+![tiktaktoe](https://github.com/user-attachments/assets/40d6e87a-6aa1-409b-b66b-9314bc238064)
+
 
 [Using advanced algorithms](/tiktaktoe.js), the O AI checks the status of the board after each player X move to either win, find a draw, or do something intelligent.
 
